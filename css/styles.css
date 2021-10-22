@@ -4,3 +4,7 @@
 .question {
   margin-left: .25in;
 }
+.blockquote {
+  color: darkred;
+  background-color: lightgrey;
+}
